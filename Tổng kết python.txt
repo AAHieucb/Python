@@ -3,12 +3,12 @@ Python
 
 
 # Basic
+pip là trình quản lý package của python
+
 -> Cài đặt:
 Nhiều máy tính mặc định có cài sẵn Python. Check: python --version
 Chạy file: python helloworld.py
 Chạy lệnh python bằng commandline: Gõ python hoặc py -> gõ lệnh như bth -> exit() để thoát
-
--> pip là trình quản lý package của python
 
 
 
@@ -30,7 +30,7 @@ uploaded = files.upload()
 
 
 
-# Dự án spam email filtering
+# Dự án ML spam email filtering
 Stemming là biến đổi từ về dạng gốc. VD: walked, walking, walks là biến thể cần quy về dạng gốc là walk
 Lemmatizing là biến đổi từ bất quy tắc cũng về dạng gốc, tức là ta có thể đảm bảo các từ goes, went và go về cùng 1 kết quả sau khi dược xử lý qua lemmatizer44
 
@@ -65,5 +65,3 @@ math: các hàm toán cơ bản như làm tròn các thứ
 
 # Other
 -> Full Tut: https://www.w3schools.com/python/ => base search. Cần gì khác thì search.
-Ngoài ra còn có thư viện Django, Pandas, Numpy, Matplotlib xem trên freetuts.
-
